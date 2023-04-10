@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Misc
+module_work/resources
+
 # C extensions
 *.so
 
